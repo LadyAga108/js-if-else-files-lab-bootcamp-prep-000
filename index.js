@@ -9,6 +9,8 @@ if (name === "Susan") {
 
 if (height === "70") {
   console.log("The height is correct")
+} else {
+  console.log("E: 70, R: 74")
 }
 
 // Don't worry about this
