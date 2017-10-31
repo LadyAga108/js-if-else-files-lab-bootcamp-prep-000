@@ -6,7 +6,6 @@ if (name === "Susan") {
 } else {
   console.log("E: S, R: J")
 }
-)
 
 if (height === "70") {
   console.log("The height is correct")
